@@ -93,7 +93,7 @@ null model paradigm: a general-purpose shell with constraint priority for local 
 
 ## IV. 知识分层：知识在NMP中的分布位置
 
-在描述TDA架构之前，我们必须先明确 ** 知识”的含义** 以及 **它存在于哪里**:
+在描述TDA架构之前，我们必须先明确 **“知识”的含义** 以及 **它存在于哪里**:
 
 | 层|知识类型 | 自然 | 所有者 | 例子 |
 | :--- | :--- | :--- | :--- | :--- |
